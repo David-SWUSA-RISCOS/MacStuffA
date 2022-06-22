@@ -13,6 +13,6 @@ The license chosen is PD, so it is officially the **Unlicense**.
 
 **NOTE 00:** Normally I am a bit slow at updating things, though as I need to relearn the OS and programming for it this is likely to be slower than my normal.
 
-**NOTE 01:** Considering renaming the account under which this repo resides.  As RISC OS is no longer a focus of mine, the name no longer fits so well.
+**NOTE 01:**  RISC OS is no longer the main focus of mine.  I am slowly moving more into using Macintosh and Amiga Computers, just need to port RPCEmu (or write a new RiscPC Emulator for these Operating Systems).
 
 **NOTE 0F:** The YASDOE repository is in the process of being redone, as it will in the future hold an OS project to create an Open Source replacement ROM for running Macintosh System Software on Macintosh Computers and/or emulators.  That is the first step in creating a new Open Source OS that can be kept up to date to run our great library of software.
