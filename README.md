@@ -15,4 +15,6 @@ The license chosen is PD, so it is officially the **Unlicense**.
 
 **NOTE 01:**  RISC OS is no longer the main focus of mine.  I am slowly moving more into using Macintosh and Amiga Computers, just need to port RPCEmu (or write a new RiscPC Emulator for these Operating Systems).
 
-**NOTE 0F:** Some of the reworked code from the YASDOE project is being used to create a open source ROM for emulators and future HW.  The main goal is to have the ROM support the Apolo 68080 based Vampir Standalone V4+ in the same way as EmuTOS already does.
+**NOTE 0C:** Some of the reworked code from the YASDOE project is being used to create a open source ROM for emulators and future HW.  The main goal is to have the ROM support the Apolo 68080 based Vampir Standalone V4+ in the same way as EmuTOS already does.
+
+**MOTE 0F:** I am also playing in x86 Amiga based systems, and thinking about other things related.
