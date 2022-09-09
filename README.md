@@ -9,6 +9,21 @@ This will be where any small truly PD (see the license file) programs I create f
 The license chosen is PD, so it is officially the **Unlicense**.
 
 
+## Reasons of Macintosh System Software:
+
+Some may wonder why target an Operating System line that has been abandoned by its creators?  The answers are simple indeed, and lead to good usability:
+* The overal System Software is simple enough to be maintainable, and can be debugged.
+* The available software covers most areas of usage already.
+* Much of the software for the system is fairly simple.
+* QuickDraw and Regions are unmatched in potential.
+* The way the Resource Manager works, with overiding of resources based on locality to current context.
+* It is a fun system to play in, even with its few limitations.
+
+The one thing that continues to be an issue into the future is the choice of timestamps that will roll over in 2040.  There are solutions, and thankfully most software has no need to know the date, time or the file timestamp.
+
+One feature that would be nice to add to Macintosh System software is better file Icon support, allowing for any size (as GS/OS and Amiga do), and to allow for seperate Icon images for selected Icons (like Amiga OS and Atari TOS 4.x do).  This is a feature that I do not understand why was never added by Apple Computer.
+
+
 ## FOOTNOTES:
 
 **NOTE 00:** Normally I am a bit slow at updating things, though as I need to relearn the OS and programming for it this is likely to be slower than my normal.
