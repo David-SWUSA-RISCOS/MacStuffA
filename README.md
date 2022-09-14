@@ -4,7 +4,9 @@ Mac or MAC, that is Macro-Assembler.  This repo is a place to contain a bit of 6
 
 Getting back to the core, and what is likely the best long term path as well.  8-bit is great in the ways to go, to design usable desktop computers for extreme long term usage.   As I continue into this path it is likely that other 8-bit Systems will revieve repos here as well.
 
-### Computers:
+
+
+## Computers:
 
 This repo covers a number of computers of my usage.  These include the CBM Computers (mainly the VIC, C64, and C128), the COSMAC systems, and now I finaly am able to learn a bit of the BBC Micro (a computer I never had in the 1980's, in fact never knew anything about until the mid 1990's).
 
@@ -22,9 +24,11 @@ This repo covers a number of computers of my usage.  These include the CBM Compu
 
 **COSMAC Systems:** Here we speak of the significant number of computers based on the CDP1802 CPU, a very well designed, very early, 8-bit CPU.  Most of these systems share many components, including video and audio circuit's.  This is one series that has proven its reliability over the long run very well, with many samples from the mid 1970's stil in operation today.
 
-**Mostly 65xxx:** Of course most of what is to be here will be for computers based on the 6502, 6510, 8510, 65C02, 65C816, and 65C816S CPU's.
+**Mostly 65xxx:** Of course most of what is to be here will be for computers based on the 6502, 6510, 8510, 65C02, 65C816, and 65C816S CPU's.  While I have spent a lot of time with the CBM computers in the past it is likely that I will be focusing a bit more on the Apple II series and BBC Micro in the future.
 
-### Going very Long Term Desktop Computer usage.
+
+
+## Going very Long Term Desktop Computer usage.
 
 This and my [RISC OS Stuff](https://github.com/David-SWUSA-RISCOS/RISCOSStuff/) repos are my ongoing focus.  The goal is to enjoy coding, and promote the design and use of extreme long term usage Desktop Computers (Desktop Systems designed to be used for 5 decades or more without replacement, both software and hardware).  We have had Desktop Personal Computers for about 50 years now, so we now are in a place to look at what has been reliable for these things and what has not been so reliable.
 
