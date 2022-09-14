@@ -4,6 +4,25 @@ Mac or MAC, that is Macro-Assembler.  This repo is a place to contain a bit of 6
 
 Getting back to the core, and what is likely the best long term path as well.  8-bit is great in the ways to go, to design usable desktop computers for extreme long term usage.   As I continue into this path it is likely that other 8-bit Systems will revieve repos here as well.
 
+### Computers:
+
+This repo covers a number of computers of my usage.  These include the CBM Computers (mainly the VIC, C64, and C128), the COSMAC systems, and now I finaly am able to learn a bit of the BBC Micro (a computer I never had in the 1980's, in fact never knew anything about until the mid 1990's).
+
+**BBC MICRO:** It seems this is one of the better thought out computers of the 8-bit generation, having things like a bitmapped screen without a text mode (excepting MODE 7 hack).  The output text stream can also define graphics, cursor movement and more, kind of like a subset of the RISC OS VDU stream in a lot of ways.
+
+**Apple II Series:** The Apple II, II+, IIe, IIe+, IIc, and IIc+ are a great line of computers, and one that has shown it longevity well.  These are very capable systems that were designed by Woz himself.
+
+**Apple IIgs:** The only 16 bit system in this catagory, a very good computer that evolved on the Apple II in a very good way, and was way more powerful than the 68000 based computers of the time.  This is an example of a design that bridges the gap very well, giving something very good above the purely 8-bit while not yet a RISC 32-bit system.
+
+**Commodore VIC 20:** The Commodore VIC 20 has a lot going for it.  Among other things many of these are still functioning in good condition more than 40 years after they were purchased, with most failures do to abuse of the computer by its owner.  Of course it also has its place in the evolution of the CBM HW.
+
+**Commodore TED Series:** This is a very reliable series of computers.  The reliability is the primary reason for there ongoing study in desktop computing, though they do have some decent abilities for a low end computer of the mid 1980's.
+
+**Commodore 64/128:** Very capable system, with very few failures.  Most that have been kept togather continue to work without issues, with the most common HW failure in normal usage being the SID (at least in NTSC regions).  The abilities of these computers has proven to be greater than the designers ever anticipated.
+
+**COSMAC Systems:** Here we speak of the significant number of computers based on the CDP1802 CPU, a very well designed, very early, 8-bit CPU.  Most of these systems share many components, including video and audio circuit's.  This is one series that has proven its reliability over the long run very well, with many samples from the mid 1970's stil in operation today.
+
+**Mostly 65xxx:** Of course most of what is to be here will be for computers based on the 6502, 6510, 8510, 65C02, 65C816, and 65C816S CPU's.
 
 ### Going very Long Term Desktop Computer usage.
 
