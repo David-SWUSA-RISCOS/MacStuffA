@@ -1,10 +1,12 @@
 # 8-Bit Computing:
 
-Mac or MAC, that is Macro-Assembler.  This repo is a place to contain a bit of 6502/65c02/65816 2 Assembly Language, some macro assembly and some simpler assembly.  There will also be s a little bit of interpreter BASIC code here, primarily in the dialects of ATOM BASIC, BBC BASIC (never cared much for interpreted MS-BASIC because of the slow down design of the interpreter).  A couple of things specifically for compiled BASIC may also come to pass.
+Mac or MAC, that is Macro-Assembler.  This repo is a place to contain a bit of 6502/65c02/65816 Assembly Language, some macro assembly and some simpler assembly.  There will also be s a little bit of interpreted BASIC code here, primarily in the dialects of ATOM BASIC, BBC BASIC (never cared much for interpreted MS-BASIC because of the slow down design of the interpreter).  A couple of things specifically for compiled BASIC may also come to pass.
 
 Getting back to the core, and what is likely the best long term path as well.  8-bit is great in the ways to go, to design usable desktop computers for extreme long term usage.   As I continue into this path it is likely that other 8-bit Systems will revieve repos here as well.
 
 There will be a heavy focus on using BBC BASIC (both a BASIC Interpreter and Macro Assembler in one) on the BBC Micro, Apple II, and Commodore 64/128 machines.  Also Atom BASIC (the precursor to BBC BASIC) on the Atom, with a look at porting Atom BASIC to newer systems.
+
+The BBC Micro is fairly new to me, so I am still learning this computer.  I do like the fact it does not have any real textmode (other than the non-native teletext mode that is not very useful at all), and uses graphics bitmapped display output even for drawing text.  There are some other very nice features of the design of the BBC MICRO that make it stand out above most other 65xxx based computers, including the designed ability to use second processor devices, thus simplifying the use of accellerators and even forign CPU's.
 
 
 
@@ -19,8 +21,6 @@ This repo covers a number of computers of my usage.  These include the CBM Compu
 **Apple IIgs:** The only 16 bit system in this catagory, a very good computer that evolved on the Apple II in a very good way, and was way more powerful than the 68000 based computers of the time.  This is an example of a design that bridges the gap very well, giving something very good above the purely 8-bit while not yet a RISC 32-bit system.
 
 **Commodore VIC 20:** The Commodore VIC 20 has a lot going for it.  Among other things many of these are still functioning in good condition more than 40 years after they were purchased, with most failures do to abuse of the computer by its owner.  Of course it also has its place in the evolution of the CBM HW.
-
-**Commodore TED Series:** This is a very reliable series of computers.  The reliability is the primary reason for there ongoing study in desktop computing, though they do have some decent abilities for a low end computer of the mid 1980's.
 
 **Commodore 64/128:** Very capable system, with very few failures.  Most that have been kept togather continue to work without issues, with the most common HW failure in normal usage being the SID (at least in NTSC regions).  The abilities of these computers has proven to be greater than the designers ever anticipated.
 
