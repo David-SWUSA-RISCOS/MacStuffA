@@ -16,7 +16,7 @@ At this time I have yet to ever have the chance to use a physical BBC MICRO, do 
 
 This repo covers a number of computers of my usage.  These include the CBM Computers (mainly the VIC, C64, and C128), the COSMAC systems, and now I finaly am able to learn a bit of the BBC Micro (a computer I never had in the 1980's, in fact never knew anything about until the mid 1990's).
 
-**BBC MICRO:** It seems this is one of the better thought out computers of the 8-bit generation, having things like a bitmapped screen without a text mode (excepting MODE 7 hack).  The output text stream can also define graphics, cursor movement and more, kind of like a subset of the RISC OS VDU stream in a lot of ways.
+**BBC MICRO:** It seems this is one of the better thought out computers of the 8-bit generation, having things like a bitmapped screen without a text mode (excepting MODE 7 hack).  The output text stream can also define graphics, cursor movement and more, kind of like a subset of the RISC OS VDU stream in a lot of ways.  The MOS Operating System of the BBC MICRO is also a well thought out OS that is quite simple and easy to understand in full, increasing the probability of a version that can stand the test of time.
 
 **Apple II Series:** The Apple II, II+, IIe, IIe+, IIc, and IIc+ are a great line of computers, and one that has shown it longevity well.  These are very capable systems that were designed by Woz himself.
 
