@@ -8,6 +8,8 @@ There will be a heavy focus on using BBC BASIC (both a BASIC Interpreter and Mac
 
 The BBC Micro is fairly new to me, so I am still learning this computer.  I do like the fact it does not have any real textmode (other than the non-native teletext mode that is not very useful at all), and uses graphics bitmapped display output even for drawing text.  There are some other very nice features of the design of the BBC MICRO that make it stand out above most other 65xxx based computers, including the designed ability to use second processor devices, thus simplifying the use of accellerators and even forign CPU's.
 
+At this time I have yet to ever have the chance to use a physical BBC MICRO, do to the only one I have ever had being DOA.  It also does not help that NTSC USA models seem to be fairly rare, way more rare than Archimedes computers.
+
 
 
 ## Computers:
