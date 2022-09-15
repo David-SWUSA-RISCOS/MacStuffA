@@ -1,8 +1,10 @@
 # 8-Bit Computing:
 
-Mac or MAC, that is Macro-Assembler.  This repo is a place to contain a bit of 6502/65c02/65816, z80, and CDP1802 Assembly Language, some macro assembly and some simpler assembly.  There will also be s a little bit of interpreter BASIC code here, primarily in the dialects of ATOM BASIC, BBC BASIC, INTEGER BASIC, and Atari BASIC (never cared much for interpreted MS-BASIC because of the slow down design of the interpreter).  A couple of things specifically for compiled BASIC may also come to pass.
+Mac or MAC, that is Macro-Assembler.  This repo is a place to contain a bit of 6502/65c02/65816 2 Assembly Language, some macro assembly and some simpler assembly.  There will also be s a little bit of interpreter BASIC code here, primarily in the dialects of ATOM BASIC, BBC BASIC (never cared much for interpreted MS-BASIC because of the slow down design of the interpreter).  A couple of things specifically for compiled BASIC may also come to pass.
 
 Getting back to the core, and what is likely the best long term path as well.  8-bit is great in the ways to go, to design usable desktop computers for extreme long term usage.   As I continue into this path it is likely that other 8-bit Systems will revieve repos here as well.
+
+There will be a heavy focus on using BBC BASIC (both a BASIC Interpreter and Macro Assembler in one) on the BBC Micro, Apple II, and Commodore 64/128 machines.  Also Atom BASIC (the precursor to BBC BASIC) on the Atom, with a look at porting Atom BASIC to newer systems.
 
 
 
@@ -21,8 +23,6 @@ This repo covers a number of computers of my usage.  These include the CBM Compu
 **Commodore TED Series:** This is a very reliable series of computers.  The reliability is the primary reason for there ongoing study in desktop computing, though they do have some decent abilities for a low end computer of the mid 1980's.
 
 **Commodore 64/128:** Very capable system, with very few failures.  Most that have been kept togather continue to work without issues, with the most common HW failure in normal usage being the SID (at least in NTSC regions).  The abilities of these computers has proven to be greater than the designers ever anticipated.
-
-**COSMAC Systems:** Here we speak of the significant number of computers based on the CDP1802 CPU, a very well designed, very early, 8-bit CPU.  Most of these systems share many components, including video and audio circuit's.  This is one series that has proven its reliability over the long run very well, with many samples from the mid 1970's stil in operation today.
 
 **Mostly 65xxx:** Of course most of what is to be here will be for computers based on the 6502, 6510, 8510, 65C02, 65C816, and 65C816S CPU's.  While I have spent a lot of time with the CBM computers in the past it is likely that I will be focusing a bit more on the Apple II series and BBC Micro in the future.
 
