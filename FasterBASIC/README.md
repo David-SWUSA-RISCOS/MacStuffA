@@ -7,6 +7,14 @@ The primary 'feature' of my attempt is to stick with Interger only operation for
 
 As a nod to the usefullness thereof I do intend to add a fixed point library that allows for formats with 24, 16, or 8 bits of integer with the remaining bits being fractional.  This will allow for maintaining decent speed of execution while providing for the need of fractional values for some applications.
 
+## Purpose:
+
+This interpreter, its associated library code, and its screen editor are an attempt to move away from the reliance on MS BASIC style BASIC Interpreters on many computers, especially 8-0bit.  As such keeping the mapped in code under 16KB in ROM is important to this project, and even more important in situations where it must be ran from RAM.
+
+Being inspired by BBC BASIC part of the purpose is to provide something faster than what many 8-bit computers have for a BASIC interpreter.  BBC BASIC is one of the few pure interpreters for BASIC that will outperform INTEGER BASIC in just about every case, and BBC BASIC has a lot more powerful features than INTEGER BASIC.  BBC BASIC is also a lot more powerful than INTEGER BASIC or MS-BASIC (so much for the Gates complaint about a more powerful BASIC being slower, not true).  These things and the fact it is structured are the reasons that the syntax of FasterBASIC is very much based on BBC BASIC.
+
+## Structured:
+
 This is a structured BASIC language, as would have better suited even the early micro-computers.  BASIC had been structured since at least 1977 in the definitions at Dartmouth with SBASIC, so there was no reasonable excuse to force spegetti code on the 8-bit micros (maybe in the cases of less than 4KB total RAM without BASIC in ROM there was a reasonable excuse).  Line numbers are still present, though this is a only as a nod to being able to easily use screen editors, as well as an optimizatoin in having the line length encoded at the start of each line.
 
 The integer variables are linked from there first leter, thus speeding the ability of the interpreter to locate a reference.  Garbage collection on strings is very much lazy, so as to reduce CPU usage in doing so.
