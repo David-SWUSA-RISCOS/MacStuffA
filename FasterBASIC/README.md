@@ -13,4 +13,6 @@ The integer variables are linked from there first leter, thus speeding the abili
 
 The line format as stored has numbers converted to there raw form (as used by the computer) of binary values with little endian byte ordering.  This is a significant speed up for many uses, as there is no need to convert the values at runtime (only at entry and listing time), the screen editor tokenizes each line as it is entered.  Moving this functionality out of the interpreter speeds up the interpreter, as well as saving space (we can page in the screen editor when editing code and in direct command mode, and page it out while running a program, giving more space for the interpreters code).
 
+Do to the fact that the code for converting strings that represent numbers into numberic values is in the screen editor, doing this in a program is a slight slow down.  This because (usually) the screen editor is paged out durring program execution on 8-bit computers.  Computers having 32-bit RISC CPU's have a bit of an advantage here, as having an entire 32KB of code available is not as much of a hit.
+
 The default Screen Editor, and its loading routines, do have the ability to convert the format of a standard BASIC V program to FasterBASIC format.
